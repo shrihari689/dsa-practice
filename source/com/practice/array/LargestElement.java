@@ -1,5 +1,8 @@
 package com.practice.array;
 
+/**
+ * https://takeuforward.org/plus/dsa/problems/largest-element
+ */
 public class LargestElement {
     public int largestElement(int[] nums) {
         int max = nums[0];

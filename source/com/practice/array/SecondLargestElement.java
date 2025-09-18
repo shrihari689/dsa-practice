@@ -1,5 +1,8 @@
 package com.practice.array;
 
+/**
+ * https://takeuforward.org/plus/dsa/problems/second-largest-element
+ */
 public class SecondLargestElement {
 
     public int secondLargestElement(int[] nums) {
