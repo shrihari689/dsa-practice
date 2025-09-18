@@ -14,21 +14,27 @@ public class QuickSort {
         int boundary = partition(arr, start, end);
 
         // Sort left
-        sort(arr, start, boundary);
+        sort(arr, start, boundary - 1);
 
         // Sort right
         sort(arr, boundary + 1, end);
     }
 
     private int partition(int arr[], int start, int end) {
-        int pivot = arr[end]; // last item
-        int left = start - 1;
-        for (int i = start; i <= end; ++i) {
-            if (arr[i] <= pivot) {
-                swap(arr, i, ++left);
+
+        int pivot = arr[end];
+
+        int boundary = start - 1;
+        for (int i = start; i < end; ++i) {
+            if (arr[i] < pivot) {
+                boundary += 1;
+                swap(arr, boundary, i);
             }
         }
-        return left;
+
+        swap(arr, end, ++boundary);
+
+        return boundary;
     }
 
     private void swap(int arr[], int from, int to) {
