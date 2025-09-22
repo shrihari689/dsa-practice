@@ -1,5 +1,8 @@
 package com.practice.array;
 
+/**
+ * https://takeuforward.org/plus/dsa/problems/kadane's-algorithm
+ */
 public class SubarrayMaximumSum {
 
     public int maxSubArray(int[] nums) {
