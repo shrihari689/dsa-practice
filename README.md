@@ -13,3 +13,4 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 09: Arrays (Easy II)
 - Day 10: Arrays (Medium I)
 - Day 11: Arrays (Medium II)
+- Day 12: Arrays (Medium III)
