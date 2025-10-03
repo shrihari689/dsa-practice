@@ -16,3 +16,4 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 12: Arrays (Medium III)
 - Day 13: Arrays (Medium III)
 - Day 14: Arrays (Medium IV)
+- Day 15: Arrays (Medium V)
