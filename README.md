@@ -20,3 +20,4 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 16: Arrays (Practice)
 - Day 17: Arrays (Hard I)
 - Day 18: Arrays (Hard II)
+- Day 19: Arrays (Hard III)
