@@ -11,6 +11,7 @@ public class MergeSortInPlace {
             return;
         }
 
+        // middle = start + offset
         int mid = start + (end - start) / 2;
 
         mergeSort(arr, start, mid);
@@ -24,6 +25,7 @@ public class MergeSortInPlace {
         int i = start;
         int j = mid + 1;
 
+        // check if already sorted.
         if (arr[mid] <= arr[j]) {
             return;
         }
