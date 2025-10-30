@@ -1,8 +1,9 @@
 {
-    "java.project.sourcePaths": [
-        "source"
-    ],
-    "editor.formatOnSave": true,
-    "java.project.referencedLibraries": [],
-    "java.project.outputPath": "bin"
+  "java.project.sourcePaths": ["source"],
+  "editor.formatOnSave": true,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "java.project.referencedLibraries": [],
+  "java.project.outputPath": "bin"
 }
