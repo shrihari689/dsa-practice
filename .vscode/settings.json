@@ -4,6 +4,7 @@
   "github.copilot.enable": {
     "*": false
   },
+
   "java.project.referencedLibraries": [],
   "java.project.outputPath": "bin"
 }
