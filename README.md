@@ -27,3 +27,6 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 23: Binary Search 1D (Easy II)
 - Day 24: Binary Search 1D (Easy III)
 - Day 25: Binary Search: (Math I)
+- Day 26: Binary Search: (Math I)
+- Day 27: Binary Search: (Math II)
+- Day 28: Binary Search: (Math II)
