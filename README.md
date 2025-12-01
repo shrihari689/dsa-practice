@@ -32,3 +32,4 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 28: Binary Search: (Math II)
 - Day 29: Binary Search: (Math III)
 - Day 30: Binary Search: (Math III)
+- Day 31: Binary Search: (Math IV)
