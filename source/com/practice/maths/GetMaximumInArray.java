@@ -1,7 +1,5 @@
 package com.practice.maths;
 
-import java.util.Arrays;
-
 public class GetMaximumInArray {
 
     public int getMaximumGenerated(int n) {

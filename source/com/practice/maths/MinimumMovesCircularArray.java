@@ -1,9 +1,5 @@
 package com.practice.maths;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-
 public class MinimumMovesCircularArray {
     public long minMoves(int[] balance) {
 
@@ -27,22 +23,6 @@ public class MinimumMovesCircularArray {
         if (negIdx == -1)
             return 0;
 
-        int need = -balance[negIdx];
-
         return -1;
-    }
-
-    private long leftDistance(int[] balance, int negIdx) {
-        long totalDist = 0;
-
-        int curr = negIdx - 1;
-        while (curr != negIdx) {
-            if (curr < 0) {
-                curr = balance.length - 1;
-            }
-
-            curr--;
-        }
-        return totalDist;
     }
 }
