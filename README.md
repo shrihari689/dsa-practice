@@ -35,3 +35,6 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 31: Binary Search: (Math IV)
 
 - Day 01: Binary Search: 2D (Medium)
+- Day 02: Binary Search: 2D (Medium)
+- Day 03: Binary Search: 2D (Medium)
+- Day 04: String (Easy)
