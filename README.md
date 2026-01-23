@@ -41,3 +41,4 @@ https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before
 - Day 05: String (Easy)
 - Day 06: String (Easy)
 - Day 07: String & Arrays (Easy)
+- Day 08: String & Arrays (Easy)
