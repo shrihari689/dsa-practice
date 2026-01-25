@@ -1,7 +1,5 @@
 package com.practice.array;
 
-import java.util.Arrays;
-
 public class DefuseTheBomb {
 
     public int[] decrypt(int[] code, int k) {
